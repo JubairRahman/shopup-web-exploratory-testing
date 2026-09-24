@@ -47,9 +47,13 @@ This can:
 - Create confusion about the identity of the customer
 - Affect the credibility of the testimonial section
 
-### 📸 Evidence
+## 📸 Evidence
 
-**Screenshot:** `BUG-001-testimonial-image-mismatch.png`
+### Testimonial Image and Attribution
+
+![BUG-001 — Testimonial Image Mismatch](https://github.com/user-attachments/assets/6deb741b-7f40-4e0b-a225-8242c48a9390)
+
+*The testimonial attribution and displayed customer image appear inconsistent.*
 
 > The screenshot should show the testimonial text, customer name, business name, and photograph in the same frame.
 
