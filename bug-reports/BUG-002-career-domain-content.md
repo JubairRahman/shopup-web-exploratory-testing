@@ -53,9 +53,13 @@ For a recruitment page, this could potentially result in users seeing outdated o
 
 This finding should be verified against ShopUp's intended canonical-domain configuration before being treated as a confirmed production defect.
 
-### 📸 Evidence
+## 📸 Evidence
 
-Capture both pages side-by-side:
+### Career Content on Domain Variant
+
+![BUG-002 — Career Content Inconsistency](https://github.com/user-attachments/assets/81b89bba-f71a-4ec5-9368-dd2b794b3532)
+
+*Screenshot showing the different/older career content available on the domain variant.*
 
 ```text
 ┌─────────────────────────────┬─────────────────────────────┐
