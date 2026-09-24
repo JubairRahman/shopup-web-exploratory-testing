@@ -117,30 +117,4 @@ Detailed findings are documented individually under [`bug-reports/`](bug-reports
 
 ---
 
-## 📁 Repository Structure
 
-```text
-shopup-web-exploratory-testing/
-│
-├── README.md
-│
-├── docs/
-│   ├── TESTING-SCOPE.md
-│   ├── TEST-ENVIRONMENT.md
-│   └── TEST-SUMMARY.md
-│
-├── bug-reports/
-│   ├── BUG-001-testimonial-image-mismatch.md
-│   ├── BUG-002-career-domain-content.md
-│   ├── BUG-003-latest-blog-content.md
-│   ├── BUG-004-duplicate-qualification.md
-│   └── BUG-005-image-alt-text.md
-│
-├── evidence/
-│   ├── BUG-001/
-│   ├── BUG-002/
-│   ├── BUG-003/
-│   ├── BUG-004/
-│   └── BUG-005/
-│
-└── .gitignore
