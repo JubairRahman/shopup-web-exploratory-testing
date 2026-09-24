@@ -62,4 +62,10 @@ Decorative images should be appropriately marked as decorative rather than given
 - Generic alternative text such as image provides little contextual information.
 - May affect the overall accessibility quality of the website.
 
-## Evidence
+## 📸 Evidence
+
+### Image Alternative Text
+
+![BUG-005 — Image Alternative Text](https://github.com/user-attachments/assets/81048be7-518d-4c83-ad47-32d37210208f)
+
+*Screenshot showing the image element and its generic or missing alternative text.*
