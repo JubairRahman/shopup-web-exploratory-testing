@@ -83,22 +83,20 @@ If the homepage intentionally displays selected/featured articles rather than th
 
 ---
 
-##  Evidence
+## 📸 Evidence
 
-### Screenshot 1 — Homepage
+### Homepage — "Latest Blog"
 
-**File:** `BUG-003-homepage-latest-blog.png`
+![BUG-003 — Homepage Latest Blog](https://github.com/user-attachments/assets/2f361366-5c89-4628-8d18-0821ab7ab301)
+
+### Blog Page — Latest Published Content
+
+![BUG-003 — Blog Page Latest Post](https://github.com/user-attachments/assets/39258afa-839f-46a6-84a6-d7a5bc08e1e7)
+
+*The screenshots show the difference between the posts displayed in the homepage's "Latest blog" section and the latest post available on the Blog page.*
 
 Capture the **Latest blog** section showing the two June 8, 2021 posts.
 
-### Screenshot 2 — Blog Page
-
-**File:** `BUG-003-blog-page-latest-post.png`
-
-Capture the Blog page showing:
-
-> **Working Capital Gap in FMCG Retail Supply Chain**  
-> **31 August, 2021**
 
 ---
 
