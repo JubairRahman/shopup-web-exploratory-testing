@@ -58,13 +58,13 @@ There is no space between the two sentences.
 
 ---
 
-##  Evidence
+## 📸 Evidence
 
-**Screenshot 1:** `BUG-004-qualification-section.png`  
-Shows the original qualification and experience section.
+### Duplicate Qualification Information
 
-**Screenshot 2:** `BUG-004-duplicate-qualification.png`  
-Shows the repeated qualification information under **Additional Information**.
+![BUG-004 — Duplicate Qualification](https://github.com/user-attachments/assets/5e54657d-ce4a-46f6-b848-858571322f2e)
+
+*The same qualification and experience information is repeated within the job posting.*
 
 ---
 
